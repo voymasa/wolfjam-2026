@@ -32,3 +32,6 @@ Talk to a cow, follow the new path to the next cow, .... , profit!
 Time constraint being the biggest one.
 
 Limited knowledge of Unity and/or been awhile since either of us dealt with it.
+
+## How to Use
+Run the scene in the editor. Select one of the Cows. Open the context menu for the NPC Speech script in the Inspector. Click 'Speak Cow'
